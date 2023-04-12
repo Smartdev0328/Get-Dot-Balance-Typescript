@@ -1,2 +1,2 @@
 # Get-Dot-Balance-Typescript
-Get Polkadot balance of DOT / Token / Staked DOT by block height
+This is the example code to get Polkadot balance of DOT / Token / Staked DOT by block height
